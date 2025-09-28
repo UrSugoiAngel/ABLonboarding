@@ -7,7 +7,7 @@ Basic implementation of the Alberta Loop FSM.
 - Logging to file
 
 <br>
-![example screenshot](/onboarding.png)
+![example screenshot](./onboarding.png)
 <br>
 ## Logging
 Logs are updated in the file `state.log`, assuming it exists.
