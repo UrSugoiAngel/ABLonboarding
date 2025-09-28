@@ -20,4 +20,5 @@ Logs are updated in the file `state.log`, assuming it exists.
 [Sat Sep 27 17:39:56 2025] READY TO LAUNCH
 [Sat Sep 27 17:40:02 2025] CRAWL
 [Sat Sep 27 17:40:03 2025] Invalid state transition attempted, entering FAULT state
-[Sat Sep 27 17:40:03 2025] FAULT```
+[Sat Sep 27 17:40:03 2025] FAULT
+```
