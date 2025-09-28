@@ -6,7 +6,9 @@ Basic implementation of the Alberta Loop FSM.
 - cross-platform UI w/ ncurses
 - Logging to file
 
-<br><br>
+<br>
+![example screenshot](https://i.ibb.co/bjjPMnhp/onboarding.png)
+<br>
 ## Logging
 Logs are updated in the file `state.log`, assuming it exists.
 <br>
