@@ -5,6 +5,7 @@ Basic implementation of the Alberta Loop FSM.
 - Locking semaphore for multitask systems
 - cross-platform UI w/ ncurses
 - Logging to file
+<a/>
 
 <br>
 <img src="onboarding.png">
